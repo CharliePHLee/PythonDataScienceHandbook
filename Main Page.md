@@ -11,7 +11,7 @@
 <p>主要將書中介紹的4大部分，在我實際讀過後。將實際資料分析會用到的部份整理出來。</p>
 <p>我目標是設定在每一個章節內容，閱讀時間在30 min 到 1 hour</p>
 <ol>
-<li>使用NumPy處理資料</li>
+<li><a href="https://github.com/CharliePHLee/PythonDataScienceHandbook/blob/master/NumPy.md">使用NumPy處理資料</a></li>
 <li>使用Pandas處理資料</li>
 <li>使用Matplotlib畫圖(資料視覺化)</li>
 <li>使用Scikit-Learn套件作機器學習分析</li>
