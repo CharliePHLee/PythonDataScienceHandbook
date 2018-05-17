@@ -19,3 +19,5 @@ I'll introduce four parties.
 2. Use Pandas to access data
 3. Use Matplotlib to visualize data
 4. Scikit-Learn package for machine learning
+
+Let's go to [main page](https://github.com/CharliePHLee/PythonDataScienceHandbook/blob/master/Main%20Page.md) to learn using Python
