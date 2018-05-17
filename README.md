@@ -13,9 +13,9 @@ My plan is to make a quick Python introduction and omit some details which I per
 
 that is not very important for you to access data by Python. But still recommand to read the handbook and suport the author.
 
-I'll introduce four parties.
+I'll introduce four parts.
 
-1. [Use Numpy to control data](https://github.com/CharliePHLee/PythonDataScienceHandbook\NumPy.md)
+1. [Use Numpy to control data](https://github.com/CharliePHLee/PythonDataScienceHandbook/blog/master/NumPy.md)
 2. Use Pandas to access data
 3. Use Matplotlib to visualize data
 4. Scikit-Learn package for machine learning
